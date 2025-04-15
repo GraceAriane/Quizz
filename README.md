@@ -16,4 +16,6 @@ A simple JavaScript-based quiz application built to test users' knowledge on var
 - JavaScript
 
 ## Live site
+https://quizz-chi-ashy.vercel.app/
+
 
